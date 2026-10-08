@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 0a08eb4f378dbe744acbf0f0233fcfd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 788651784159540194
+    second: Smoke Atlas free pack_0
+  - first:
+      213: 6769431371799703867
+    second: Smoke Atlas free pack_1
+  - first:
+      213: 3521152279220087924
+    second: Smoke Atlas free pack_2
+  - first:
+      213: 2281291402698957214
+    second: Smoke Atlas free pack_3
+  - first:
+      213: 5871020388568769
+    second: Smoke Atlas free pack_4
+  - first:
+      213: -5719647770348005540
+    second: Smoke Atlas free pack_5
+  - first:
+      213: -5017572311718075267
+    second: Smoke Atlas free pack_6
+  - first:
+      213: -410785473450263485
+    second: Smoke Atlas free pack_7
+  - first:
+      213: 1628174020312996624
+    second: Smoke Atlas free pack_8
+  - first:
+      213: 7443013207575349430
+    second: Smoke Atlas free pack_9
+  - first:
+      213: -7137883921055347704
+    second: Smoke Atlas free pack_10
+  - first:
+      213: -4185917457305282452
+    second: Smoke Atlas free pack_11
+  - first:
+      213: -1104716107567993061
+    second: Smoke Atlas free pack_12
+  - first:
+      213: -5562040088318465993
+    second: Smoke Atlas free pack_13
+  - first:
+      213: -1377151241444333185
+    second: Smoke Atlas free pack_14
+  - first:
+      213: 251431157363695597
+    second: Smoke Atlas free pack_15
+  - first:
+      213: -4340326034244497320
+    second: Smoke Atlas free pack_16
+  - first:
+      213: 8515053589040491926
+    second: Smoke Atlas free pack_17
+  - first:
+      213: 1775632926147824503
+    second: Smoke Atlas free pack_18
+  - first:
+      213: 1655603397467367665
+    second: Smoke Atlas free pack_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 417
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3be468e9ad1fa00800000000000000
+      internalID: 788651784159540194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 411
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b18777f9d1fd50800000000000000
+      internalID: 6769431371799703867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 407
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c68f29755add030800000000000000
+      internalID: 3521152279220087924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 404
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e912607a176c8af10800000000000000
+      internalID: 2281291402698957214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 267
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cecab479abd41000800000000000000
+      internalID: 5871020388568769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 265
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c575d0828aabf90b0800000000000000
+      internalID: -5719647770348005540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 261
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74653511900e5ab0800000000000000
+      internalID: -5017572311718075267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 257
+        width: 105
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c3b10d9c89c4af0800000000000000
+      internalID: -410785473450263485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 227
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b964125af689610800000000000000
+      internalID: 1628174020312996624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 237
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c118d315ea4760800000000000000
+      internalID: 7443013207575349430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 126
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c0685546421fc90800000000000000
+      internalID: -7137883921055347704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 126
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6856322042a8e5c0800000000000000
+      internalID: -4185917457305282452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 131
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fe1ce9d824ba0f0800000000000000
+      internalID: -1104716107567993061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 127
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ab45320aafc2b0800000000000000
+      internalID: -5562040088318465993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79e8bb0e3063ece0800000000000000
+      internalID: -1377151241444333185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defd0243e434d7300800000000000000
+      internalID: 251431157363695597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8501a77c77014c3c0800000000000000
+      internalID: -4340326034244497320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d6c22ef1c8b2670800000000000000
+      internalID: 8515053589040491926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b47861db054a810800000000000000
+      internalID: 1775632926147824503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Atlas free pack_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e8faa482e9f610800000000000000
+      internalID: 1655603397467367665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Smoke Atlas free pack_0: 788651784159540194
+      Smoke Atlas free pack_1: 6769431371799703867
+      Smoke Atlas free pack_10: -7137883921055347704
+      Smoke Atlas free pack_11: -4185917457305282452
+      Smoke Atlas free pack_12: -1104716107567993061
+      Smoke Atlas free pack_13: -5562040088318465993
+      Smoke Atlas free pack_14: -1377151241444333185
+      Smoke Atlas free pack_15: 251431157363695597
+      Smoke Atlas free pack_16: -4340326034244497320
+      Smoke Atlas free pack_17: 8515053589040491926
+      Smoke Atlas free pack_18: 1775632926147824503
+      Smoke Atlas free pack_19: 1655603397467367665
+      Smoke Atlas free pack_2: 3521152279220087924
+      Smoke Atlas free pack_3: 2281291402698957214
+      Smoke Atlas free pack_4: 5871020388568769
+      Smoke Atlas free pack_5: -5719647770348005540
+      Smoke Atlas free pack_6: -5017572311718075267
+      Smoke Atlas free pack_7: -410785473450263485
+      Smoke Atlas free pack_8: 1628174020312996624
+      Smoke Atlas free pack_9: 7443013207575349430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
